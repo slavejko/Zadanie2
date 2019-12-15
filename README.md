@@ -2,9 +2,9 @@
 <p align="center">
 
 ## **Authors**
-- Karina Fábryová
-- Juraj Pašek
-- Slavomír Slavejko
-- Pavol Sobota
+- Karina Fábryová - Dokumentácia
+- Juraj Paška - Dictionary & Fitness
+- Slavomír Slavejko - HC
+- Pavol Sobota - GA
 
 </p>
